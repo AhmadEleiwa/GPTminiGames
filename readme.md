@@ -12,6 +12,9 @@ The game is built using **Python** and the **Pygame** library.
 
 Watch the demo of the game in action:
 
+<img src="assets/screen.gif" />
+
+
 [![Game Demo](assets/cover.png)](assets/screen-capture.webm)
 
 
